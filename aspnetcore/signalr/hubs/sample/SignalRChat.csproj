@@ -7,7 +7,7 @@
 
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.0-rc1-final" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.22" />
   </ItemGroup>
 
   <Target Name="CopySignalR" BeforeTargets="AfterBuild">
